@@ -539,3 +539,9 @@ h6,
 #menu-1 .dropdown-item[aria-expanded="true"] {
   color: #000000!important;
 }
+#form1-8 .form-control-label {
+  color: #000000;
+}
+#form1-8 .mbr-section-title {
+  color: #000000;
+}
