@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Spaces.html",
+    "currentPage": "Video.html",
     "versionFirst": "3.6.4",
     "versionPublish": "3.12.1",
     "name": "NewSite-09-30_1209",
@@ -25,7 +25,7 @@
     },
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "uniqCompNum": 67
+    "uniqCompNum": 71
   },
   "pages": {
     "index.html": {
@@ -836,7 +836,7 @@
           "_params": {
             "iconsBgColor": "#000000",
             "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingBottom": "4",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -948,27 +948,57 @@
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
+          "_inherit": "gallery1",
           "_tags": [
             "Theme"
           ],
-          "_name": "image1",
-          "_anchor": "image1-1u",
-          "media": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/image1.jpg",
-              "width": 1400
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "autoplay": false,
-              "loop": false,
-              "active": true
-            }
-          },
+          "_name": "gallery3",
           "_params": {
-            "showText": true
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "images": [
+              {
+                "tags": "Responsive",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/KoY4ClZvowk",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-02-25-00-52-55.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/0baVK8TE7Qo",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-02-25-00-53-20.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/H2Ys3638LBI",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-02-25-00-53-40.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": 1,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#000000",
+            "filterBgColor": true,
+            "fullWidth": true,
+            "showBullets": true
           },
-          "text": "Create awesome mobile-friendly websites. No coding and free."
+          "_anchor": "gallery3-1v",
+          "articleLayout": false,
+          "allItem": "All"
         },
         {
           "_styles": {
