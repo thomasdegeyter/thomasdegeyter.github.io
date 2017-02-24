@@ -2782,19 +2782,19 @@
                 "active": false
               },
               {
-                "thumb": "@PROJECT_PATH@/assets/images/p1050723-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/p1050723-2000x1333.jpg",
-                "active": true
-              },
-              {
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/p1050716-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/p1050716-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1050724-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/p1050724-2000x1333.jpg",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/p1050725-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/p1050725-2000x1333.jpg",
+                "active": true
               }
             ],
             "spacing": "1",
@@ -2824,8 +2824,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/p1050717-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/p1050717-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1050726-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/p1050726-2000x1333.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -2834,8 +2834,28 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/p1050718-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/p1050718-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1050723-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/p1050723-2000x3000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1050719-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/p1050719-2000x3000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1050720-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/p1050720-2000x3000.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
