@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Contact.html",
     "versionFirst": "3.6.4",
     "versionPublish": "3.12.1",
     "name": "NewSite-09-30_1209",
@@ -8,7 +8,7 @@
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#000000",
+        "primaryColor": "#545454",
         "secondaryColor": "#bfcecb",
         "successColor": "#90a878",
         "infoColor": "#7e9b9f",
@@ -608,21 +608,21 @@
           "_name": "form1",
           "_styles": {
             ".form-control-label": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".mbr-section-title": {
-              "color": "#000000"
+              "color": "#ffffff"
             }
           },
           "_anchor": "form1-8",
           "_params": {
-            "labelsColor": "#000000",
+            "labelsColor": "#ffffff",
             "paddingTop": "4",
             "paddingBottom": "4",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#3b3b3b",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
@@ -630,7 +630,7 @@
             "showTitle": true,
             "showSubTitle": false
           },
-          "title": "CONTACT ME",
+          "title": "ASK ME ANYTHING",
           "subtitle": "Shape your future web project with sharp design and refine coded functions.",
           "form": {
             "action": "thomas.dg@live.nl",
