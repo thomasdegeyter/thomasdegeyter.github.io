@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Work1.html",
+    "currentPage": "Work2.html",
     "versionFirst": "3.6.4",
     "versionPublish": "3.12.1",
     "name": "NewSite-09-30_1209",
@@ -1706,8 +1706,8 @@
           "_anchor": "features4-q",
           "_params": {
             "iconsBgColor": "#f2f2f2",
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "4",
+            "paddingBottom": "4",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
