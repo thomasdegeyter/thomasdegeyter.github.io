@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Work1.html",
+    "currentPage": "Work2.html",
     "versionFirst": "3.6.4",
     "versionPublish": "3.12.1",
     "name": "NewSite-09-30_1209",
@@ -1665,16 +1665,6 @@
                 "image": "@PROJECT_PATH@/assets/images/p1050704-2000x1333.jpg",
                 "caption": "Type caption here",
                 "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/p1050706-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/p1050706-2000x1333.jpg",
-                "caption": "Type caption here",
-                "active": true
               },
               {
                 "tags": "Animated",
