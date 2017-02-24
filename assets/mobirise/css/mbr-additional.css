@@ -687,6 +687,13 @@ h6,
 #features1-k .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #000000;
 }
+#features4-10 .card-subtitle {
+  color: #bcbcbc;
+}
+#features4-10 .iconbox {
+  background-color: #000000;
+  border-color: #000000;
+}
 #menu-j .hide-buttons .nav-btn {
   display: none !important;
 }
