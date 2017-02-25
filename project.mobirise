@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Video.html",
+    "currentPage": "Contact.html",
     "versionFirst": "3.6.4",
     "versionPublish": "3.12.1",
     "name": "NewSite-09-30_1209",
@@ -20,7 +20,7 @@
         "isRoundedButtons": false,
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": false,
-        "isRtl": true
+        "isRtl": false
       }
     },
     "path": "@PROJECT_PATH@",
