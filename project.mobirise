@@ -4578,17 +4578,18 @@
             "showButtons": false
           },
           "title": "",
-          "text": "<p><span style=\"font-size: 1.5rem; line-height: 1.5;\">\"Although I have no intention of starting a file on the subject of human drama, I shall study a few ultra-cellars which prove that the cellar dream irrefutably increases reality.\" Gaston Bachelard - The Poetics of Space</span></p>",
+          "text": "\"Although I have no intention of starting a file on the subject of human drama, I shall study a few ultra-cellars which prove that the cellar dream irrefutably increases reality.\" Gaston Bachelard - The Poetics of Space",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
           "_styles": {
             ".mbr-section-lead": {
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "text-align": "left"
+              "text-align": "center"
             },
             ".mbr-section-lead P": {
               "font-size": "8px",
-              "text-align": "center"
+              "text-align": "center",
+              "color": "#ffffff"
             }
           }
         }
