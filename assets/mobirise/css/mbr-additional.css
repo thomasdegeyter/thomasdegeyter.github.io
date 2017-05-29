@@ -1,6 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 
 
 
@@ -1297,6 +1298,7 @@ h6,
   background-color: #f2f2f2;
   border-color: #f2f2f2;
 }
+
 #menu-2a .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1357,6 +1359,14 @@ h6,
 #menu-2a .link[aria-expanded="true"],
 #menu-2a .dropdown-item[aria-expanded="true"] {
   color: #545454!important;
+}
+#header1-2d .mbr-section-lead {
+  font-family: 'Open Sans', sans-serif;
+  text-align: left;
+}
+#header1-2d .mbr-section-lead P {
+  font-size: 8px;
+  text-align: center;
 }
 #features1-2f .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #000000;
@@ -1430,154 +1440,5 @@ h6,
 }
 #menu-2a .link[aria-expanded="true"],
 #menu-2a .dropdown-item[aria-expanded="true"] {
-  color: #545454!important;
-}
-#features4-2l .card-subtitle {
-  color: #bcbcbc;
-}
-#features4-2l .iconbox {
-  background-color: #000000;
-  border-color: #000000;
-}
-#menu-2j .hide-buttons .nav-btn {
-  display: none !important;
-}
-#menu-2j .navbar-caption {
-  color: #ffffff;
-}
-#menu-2j .navbar-toggler {
-  color: #ffffff;
-}
-#menu-2j .close-icon::before,
-#menu-2j .close-icon::after {
-  background-color: #ffffff;
-}
-#menu-2j .link,
-#menu-2j .dropdown-item {
-  color: #ffffff;
-}
-#menu-2j .link {
-  font-size: 0.85rem;
-}
-#menu-2j .dropdown-item,
-#menu-2j .nav-dropdown-sm .link {
-  font-size: 0.921rem;
-}
-#menu-2j .link:hover,
-#menu-2j .dropdown-item:hover,
-#menu-2j .link:focus,
-#menu-2j .dropdown-item:focus {
-  color: #545454;
-}
-#menu-2j .link[aria-expanded="true"],
-#menu-2j .dropdown-menu {
-  background: #000000;
-}
-#menu-2j .nav-dropdown-sm .link:focus,
-#menu-2j .nav-dropdown-sm .link:hover,
-#menu-2j .nav-dropdown-sm .dropdown-item:focus,
-#menu-2j .nav-dropdown-sm .dropdown-item:hover {
-  background: #000000!important;
-}
-#menu-2j .navbar,
-#menu-2j .nav-dropdown-sm,
-#menu-2j .nav-dropdown-sm .link[aria-expanded="true"],
-#menu-2j .nav-dropdown-sm .dropdown-menu {
-  background: #000000;
-}
-#menu-2j .bg-color.transparent .link {
-  color: #ffffff;
-  transition: none;
-}
-#menu-2j .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#menu-2j .bg-color.transparent.opened .link:hover,
-#menu-2j .bg-color.transparent.opened .link:focus {
-  color: #545454;
-}
-#menu-2j .link[aria-expanded="true"],
-#menu-2j .dropdown-item[aria-expanded="true"] {
-  color: #545454!important;
-}
-#features4-2m .card-subtitle {
-  color: #bcbcbc;
-}
-#features4-2m .iconbox {
-  background-color: #000000;
-  border-color: #000000;
-}
-#features1-2p .striped .mbr-cards-col:nth-child(2n+1) {
-  background-color: #000000;
-}
-#features1-2q .striped .mbr-cards-col:nth-child(2n+1) {
-  background-color: #000000;
-}
-#features4-2r .card-subtitle {
-  color: #bcbcbc;
-}
-#features4-2r .iconbox {
-  background-color: #000000;
-  border-color: #000000;
-}
-#menu-2s .hide-buttons .nav-btn {
-  display: none !important;
-}
-#menu-2s .navbar-caption {
-  color: #ffffff;
-}
-#menu-2s .navbar-toggler {
-  color: #ffffff;
-}
-#menu-2s .close-icon::before,
-#menu-2s .close-icon::after {
-  background-color: #ffffff;
-}
-#menu-2s .link,
-#menu-2s .dropdown-item {
-  color: #ffffff;
-}
-#menu-2s .link {
-  font-size: 0.85rem;
-}
-#menu-2s .dropdown-item,
-#menu-2s .nav-dropdown-sm .link {
-  font-size: 0.921rem;
-}
-#menu-2s .link:hover,
-#menu-2s .dropdown-item:hover,
-#menu-2s .link:focus,
-#menu-2s .dropdown-item:focus {
-  color: #545454;
-}
-#menu-2s .link[aria-expanded="true"],
-#menu-2s .dropdown-menu {
-  background: #000000;
-}
-#menu-2s .nav-dropdown-sm .link:focus,
-#menu-2s .nav-dropdown-sm .link:hover,
-#menu-2s .nav-dropdown-sm .dropdown-item:focus,
-#menu-2s .nav-dropdown-sm .dropdown-item:hover {
-  background: #000000!important;
-}
-#menu-2s .navbar,
-#menu-2s .nav-dropdown-sm,
-#menu-2s .nav-dropdown-sm .link[aria-expanded="true"],
-#menu-2s .nav-dropdown-sm .dropdown-menu {
-  background: #000000;
-}
-#menu-2s .bg-color.transparent .link {
-  color: #ffffff;
-  transition: none;
-}
-#menu-2s .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#menu-2s .bg-color.transparent.opened .link:hover,
-#menu-2s .bg-color.transparent.opened .link:focus {
-  color: #545454;
-}
-#menu-2s .link[aria-expanded="true"],
-#menu-2s .dropdown-item[aria-expanded="true"] {
   color: #545454!important;
 }
