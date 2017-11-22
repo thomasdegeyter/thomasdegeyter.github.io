@@ -621,6 +621,10 @@ h6,
 #form1-5 .mbr-section-title {
   color: #ffffff;
 }
+#social-buttons3-c .mbr-section-title,
+#social-buttons3-c .btn-social {
+  color: #fff;
+}
 #menu-7 .hide-buttons .nav-btn {
   display: none !important;
 }
