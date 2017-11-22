@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "video.html",
+    "currentPage": "contact.html",
     "versionFirst": "3.6.4",
     "versionPublish": "4.4.1",
     "name": "My Site",
@@ -459,8 +459,8 @@
             }
           },
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "4",
+            "paddingBottom": "4",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
