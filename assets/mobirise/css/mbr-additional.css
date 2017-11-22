@@ -830,3 +830,7 @@ h6,
 #menu-6 .close-icon::after {
   background-color: #ffffff;
 }
+#social-buttons3-f .mbr-section-title,
+#social-buttons3-f .btn-social {
+  color: #fff;
+}
