@@ -625,6 +625,10 @@ h6,
 #menu-7 .close-icon::after {
   background-color: #ffffff;
 }
+#social-buttons3-h .mbr-section-title,
+#social-buttons3-h .btn-social {
+  color: #fff;
+}
 #menu-8 .hide-buttons .nav-btn {
   display: none !important;
 }
