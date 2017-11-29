@@ -581,6 +581,10 @@ h6,
 #social-buttons3-i .btn-social {
   color: #fff;
 }
+#msg-box8-v .mbr-section-title,
+#msg-box8-v p {
+  color: #fff;
+}
 #menu-7 .hide-buttons .nav-btn {
   display: none !important;
 }
