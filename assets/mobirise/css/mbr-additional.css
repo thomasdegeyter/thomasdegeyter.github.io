@@ -481,6 +481,10 @@ h6,
 #header1-3 .mbr-section-lead {
   text-align: left;
 }
+#content5-p .mbr-section-title,
+#content5-p p {
+  color: #fff;
+}
 #social-buttons3-c .mbr-section-title,
 #social-buttons3-c .btn-social {
   color: #fff;
@@ -562,6 +566,10 @@ h6,
 #social-buttons3-l .btn-social {
   color: #fff;
 }
+#content5-t .mbr-section-title,
+#content5-t p {
+  color: #fff;
+}
 #social-buttons3-i .mbr-section-title,
 #social-buttons3-i .btn-social {
   color: #fff;
@@ -635,6 +643,10 @@ h6,
 }
 #social-buttons3-h .mbr-section-title,
 #social-buttons3-h .btn-social {
+  color: #fff;
+}
+#content5-q .mbr-section-title,
+#content5-q p {
   color: #fff;
 }
 #social-buttons3-j .mbr-section-title,
@@ -712,6 +724,10 @@ h6,
 #social-buttons3-b .btn-social {
   color: #fff;
 }
+#content5-r .mbr-section-title,
+#content5-r p {
+  color: #fff;
+}
 #social-buttons3-k .mbr-section-title,
 #social-buttons3-k .btn-social {
   color: #fff;
@@ -787,6 +803,10 @@ h6,
 #menu-6 .close-icon::after {
   background-color: #ffffff;
 }
+#content5-s .mbr-section-title,
+#content5-s p {
+  color: #fff;
+}
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -853,4 +873,8 @@ h6,
 #menu-0 .close-icon::before,
 #menu-0 .close-icon::after {
   background-color: #ffffff;
+}
+#content5-n .mbr-section-title,
+#content5-n p {
+  color: #fff;
 }
