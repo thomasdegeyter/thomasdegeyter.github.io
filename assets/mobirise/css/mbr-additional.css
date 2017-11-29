@@ -485,6 +485,9 @@ h6,
 #content5-p p {
   color: #fff;
 }
+#content5-p P {
+  text-align: right;
+}
 #social-buttons3-c .mbr-section-title,
 #social-buttons3-c .btn-social {
   color: #fff;
@@ -900,4 +903,12 @@ h6,
 }
 #content5-n .mbr-section-title {
   color: #ffffff;
+}
+#content5-u .mbr-section-title,
+#content5-u p {
+  color: #fff;
+}
+#content5-u P {
+  color: #ffffff;
+  text-align: right;
 }
