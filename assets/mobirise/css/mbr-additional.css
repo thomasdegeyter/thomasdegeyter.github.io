@@ -664,6 +664,10 @@ h6,
   color: #ffffff;
   text-align: right;
 }
+#msg-box8-w .mbr-section-title,
+#msg-box8-w p {
+  color: #fff;
+}
 #social-buttons3-j .mbr-section-title,
 #social-buttons3-j .btn-social {
   color: #fff;
@@ -747,8 +751,8 @@ h6,
   color: #ffffff;
   text-align: right;
 }
-#social-buttons3-k .mbr-section-title,
-#social-buttons3-k .btn-social {
+#msg-box8-x .mbr-section-title,
+#msg-box8-x p {
   color: #fff;
 }
 #social-buttons3-f .mbr-section-title,
